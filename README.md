@@ -12,6 +12,7 @@ we are aimed to provide blind people the reliable way to move aroud
 
   - We are trying to implement an audio output to indicate the blind about the object detected
   - We are trying to automate the robot to pass around an obstacle at the moment
+## Maps API still in development
 
 <img src="https://i.ibb.co/2ggKRjn/IMG-20190124-012650-HHT.jpg" width="40%">
 
