@@ -98,7 +98,7 @@ class YOLO(object):
         return_boxs = []
         return_classes = []
         for i, c in reversed(list(enumerate(out_classes))):
-            if not (self.class_names[c] == 'car' or self.class_names[c] == 'bicycle' or self.class_names[c] == 'person' or self.class_names[c] == 'motorbike' or self.class_names[c] == 'bus' or self.class_names[c] == 'truck' or self.class_names[c] == 'train' or self.class_names[c] == 'bench' or self.class_names[c] == 'bird' or self.class_names[c] == 'cat' or self.class_names[c] == 'horse' or self.class_names[c] == 'sheep' or self.class_names[c] == 'cow' or self.class_names[c] == 'chair' or self.class_names[c] == 'sofa' or self.class_names[c] == 'pottedplant' or self.class_names[c] == 'diningtable' or self.class_names[c] == 'refrigerator'):
+            if not (self.class_names[c] == 'bottle' or self.class_names[c] == 'car' or self.class_names[c] == 'bicycle' or self.class_names[c] == 'person' or self.class_names[c] == 'motorbike' or self.class_names[c] == 'bus' or self.class_names[c] == 'truck' or self.class_names[c] == 'train' or self.class_names[c] == 'bench' or self.class_names[c] == 'bird' or self.class_names[c] == 'cat' or self.class_names[c] == 'horse' or self.class_names[c] == 'sheep' or self.class_names[c] == 'cow' or self.class_names[c] == 'chair' or self.class_names[c] == 'sofa' or self.class_names[c] == 'pottedplant' or self.class_names[c] == 'diningtable' or self.class_names[c] == 'refrigerator'):
                 continue
             return_classes.append(self.class_names[c])
             box = out_boxes[i]
