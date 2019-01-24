@@ -1,3 +1,4 @@
+import os
 import curses
 import socket
 from gpiozero import Motor
@@ -97,6 +98,7 @@ try:
                       cam_stable()
                       char = curses.KEY_DOWN
                       my_break()
+                      os.system('spd-say "obstruction"')
                    else:
                      my_frontr()
                      sleep(0.6)
@@ -123,6 +125,7 @@ try:
             elif detu == b'blocked':
                    my_break()
                    char = curses.KEY_DOWN
+                   os.system('spd-say "obstruction"')
 
             else :
                curses.flushinp()
@@ -157,7 +160,7 @@ try:
                 my_backl()
                 sleep(0.05)
                 my_break()
-            elif char == ord('c')
+            elif char == ord('c'):
                 my_backr()
                 sleep(0.05)
                 my_break()
