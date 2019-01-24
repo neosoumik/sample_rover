@@ -1,5 +1,5 @@
 # B_help
-## Challenge : To help visually-impaired peole and to serve military purposes
+## Challenge : To help visually-impaired people and to serve military purposes
 
 
 we are aimed to provide blind people the reliable way to move aroud
