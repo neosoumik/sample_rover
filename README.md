@@ -1,6 +1,5 @@
 # B_help
-
-[![B_help](https://i.ibb.co/2ggKRjn/IMG-20190124-012650-HHT.jpg)](https://github.com/Prasanna-icefire/B_help)
+## Challenge : To help visually-impaired peole and to serve military purposes
 
 
 we are aimed to provide blind people the reliable way to move aroud
@@ -14,9 +13,7 @@ we are aimed to provide blind people the reliable way to move aroud
   - We are trying to implement an audio output to indicate the blind about the object detected
   - We are trying to automate the robot to pass around an obstacle at the moment
 
-
-
-
+<img src="https://i.ibb.co/2ggKRjn/IMG-20190124-012650-HHT.jpg" width="40%">
 
 ### Tech
 
