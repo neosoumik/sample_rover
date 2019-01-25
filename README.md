@@ -10,8 +10,10 @@ we are aimed to provide blind people the reliable way to move aroud
 
 # New Features!
 
-  - We are trying to implement an audio output to indicate the blind about the object detected
-  - We are trying to automate the robot to pass around an obstacle at the moment
+  - We have implemented an audio output to indicate the blind about the object detected
+  - We have automated the robot to pass around an obstacle at the moment. 
+  - We are trying to establish communication with the navigation APIs to make it self driven.
+  - Trying to use out rover as a surviallence to patrol the city, to use it in the military if weapon     detection is implemented and probably use it as a package delivery and garbage collecting truck prototype.... 
 #### Note: Maps API implementation will be done soon
 
 <img src="https://i.ibb.co/2ggKRjn/IMG-20190124-012650-HHT.jpg" width="40%">
