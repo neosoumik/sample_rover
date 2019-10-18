@@ -1,20 +1,20 @@
 # B_help
-## Challenge : To help visually-impaired people and to serve military purposes
+## Challenge : To help visually-impaired people and to serve military purposes.
 
 
-we are aimed to provide blind people the reliable way to move aroud
+We are aimed to provide blind people the reliable way to move aroud
 
-  - using computer vision
-  - reliable than any living persons if correctly executed
-  - We also aim to use it as a robot to send it to the nearest store be it a grocery or a medical   one of course with a prescription
+  - using computer vision.
+  - reliable than any living persons if correctly executed.
+  - We also aim to use it as a robot to send it to the nearest store be it a grocery or a medical one ofcourse with a prescription.
+  
+# New Features added!
 
-# New Features!
-
-  - We have implemented an audio output to indicate the blind about the object detected
+  - We have implemented an audio output to indicate the blind about the object detected.
   - We have automated the robot to pass around an obstacle at the moment. 
   - We are trying to establish communication with the navigation APIs to make it self driven.
-  - Trying to use out rover as a surviallence to patrol the city, to use it in the military if weapon     detection is implemented and probably use it as a package delivery and garbage collecting truck prototype.... 
-#### Note: Maps API implementation will be done soon
+  - Trying to use out rover as a surviallence to patrol the city, to use it in the military if weapon detection is implemented and probably use it as a package delivery and garbage collecting truck prototype.... 
+#### Note: Maps API implementation will be done soon............
 
 <img src="https://i.ibb.co/2ggKRjn/IMG-20190124-012650-HHT.jpg" width="40%">
 
