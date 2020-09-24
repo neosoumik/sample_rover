@@ -39,3 +39,6 @@ We are currently trying to automate our device to bypass an obstacle and hope to
 To execute the code ,you are supposed to run the pi_stream.py,pigpiod and ultra.py as super user on the raspberrypi
 
 On the lapto,edit the lan connections you are connected to the raspberrypi into the rov.py and detect.py so that you can stream the video and control the GPIO pin of the raspberrypi
+
+
+### New Updates to be made soon
